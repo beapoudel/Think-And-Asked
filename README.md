@@ -21,6 +21,7 @@ The `QuestionAnswerContract` is designed to create a decentralized Q&A platform 
    ![Flowchart](link-to-flowchart-image)
 
 ## Contract Address
+0x0e6b19fb296e51c23c11d9cd4313986eeac9673b
 
 The smart contract is deployed on the Ethereum blockchain. The current deployment address is:
 
