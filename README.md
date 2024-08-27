@@ -2,6 +2,7 @@
 # QuestionAnswerContract
 
 ## Vision
+![Screenshot 2024-08-27 154448](https://github.com/user-attachments/assets/0d4cd103-ac8b-4fe0-a935-31c1c2be7aef)
 
 The `QuestionAnswerContract` is designed to create a decentralized Q&A platform where students can ask questions and teachers can provide answers in exchange for a fee. By leveraging blockchain technology, this contract ensures transparency, immutability, and direct financial transactions without intermediaries.
 
