@@ -1,4 +1,4 @@
-# Think-And-Asked
+# Think-And-Ask
 # QuestionAnswerContract
 
 ## Vision
